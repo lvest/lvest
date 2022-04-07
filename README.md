@@ -2,14 +2,9 @@
 <h3> 👋 안녕하세요!</h3>
 <p> 프론트엔드 개발자를 지망하고 있는 박예린입니다 </p>
 
-</br>
-
----
-
-</br>
+#
 
 <h3>⭐️ Tech Stacks ⭐️</h3>
-</br>
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -19,11 +14,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black">
 </p>
 
-</br>
-
----
-
-</br>
+#
 
 ![Yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvest&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
